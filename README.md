@@ -29,7 +29,7 @@ Sou desenvolvedor fullstack com ampla experiência no desenvolvimento de aplica�
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrecrozatti&show_icons=true&theme=radical)
 
 ---
 
@@ -37,5 +37,5 @@ Sou desenvolvedor fullstack com ampla experiência no desenvolvimento de aplica�
 
 Se tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre tecnologia, sinta-se à vontade para me contatar!
 
-- [LinkedIn](https://linkedin.com/in/seuusuario)
+- [LinkedIn](https://linkedin.com/in/andrecrozatti)
 - [Email](mailto:seuemail@dominio.com)
